@@ -1,0 +1,3 @@
+Customer Name : aman
+Customer ID : 114
+Your bill is :170
